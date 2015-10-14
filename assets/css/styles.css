@@ -1,0 +1,31 @@
+
+/**
+* ====================================================================
+*  styles.css -- Global styles for the Fairfield StagUp website
+* ====================================================================
+*/
+
+/*---- Basic Styling ----*/
+h1 {
+  color: darkred;
+}
+.btn-primary {
+  background-color: #C6102E; /* bright cherry red */
+  border-color: #A50D27; /* a darker shade of the same red */
+}
+
+/*---- Navbar Styling ----*/
+.navbar-brand {
+  padding: 6px 15px;}
+}
+
+/*---- Feature-Panel Styling ----*/
+.featured-events-top {
+  background-image: url(../images/FeaturePhoto.jpg);
+  background-size: cover;
+  background-position: center center;
+
+}
+.featured-text-container {
+  background-color: rgba
+}
