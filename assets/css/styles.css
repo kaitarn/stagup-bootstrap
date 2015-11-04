@@ -15,6 +15,9 @@ h1 {
 }
 
 /*---- Navbar Styling ----*/
+body {
+  padding-top: 50px;
+}
 .navbar-brand {
   padding: 6px 15px;
 }
@@ -75,4 +78,16 @@ nav li {
 
 .thumbnail h3 {
   font-size: 1.1em;
+}
+
+
+
+/*---- Footer Styling ----*/
+footer.page-footer.row {
+    background-color:  #333333;
+    padding: 32px 0;
+}
+
+.btn-primary:active:hover, .btn-primary.active:hover {
+  background-color: hsl(350, 85%, 30%);
 }
